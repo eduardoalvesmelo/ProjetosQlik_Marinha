@@ -1,0 +1,67 @@
+﻿CodEmbarcação;DescEmbarcação
+1;Plataforma Fixa
+2;Tanque (transporte de granéis líquidos)
+4;Petroleiro
+6;Químico
+7;Graneleiro
+8;Porta-Contentor
+9;Roll-on / Roll-off Carga 
+10;Carga Geral
+12;Roll-on / Roll-off Passageiro (Ferry Boat)
+13;Passageiro
+15;Transporte de Carga Pesada (Navio de Cargas Especiais)
+17;Plataforma Semi-Submersível
+18;Plataforma Auto-Elevável
+20;Passageiro de Alta Velocidade (HSC Passageiro)
+21;Carga de Alta Velocidade (HSC Carga)
+22;Sonda
+23;Alvarenga
+24;Floating, Production, Storage and Off-Loading Unit (FPSO)
+25;Barcaça
+26;Bote
+27;Cábrea
+28;Chata
+30;Dique Flutuante
+31;Draga
+32;Escuna
+33;Flutuante
+34;Jangada
+35;Lancha
+37;Multicasco (Catamarã, Trimarã, Tetramarã, etc)
+38;Pesqueiro
+39;Pesquisa
+40;Quebra-gelo
+41;Rebocador
+42;Saveiro
+43;Veleiro
+44;Hovercraft
+45;Supridor (Supply)
+46;Traineira
+47;Manuseio de Âncora (AHTS)
+48;Balsa
+50;Hidroavião
+51;Canoa
+52;Apoio a Mergulho
+53;Batelão
+54;Caique
+55;Caiaque
+56;Curral
+57;Empurrador
+58;Flotel
+59;Iate
+60;Laser
+61;Multipurpose
+62;Oceonagráfico
+63;Passageiro / Carga Geral
+99;Outros
+100;Manuseio de Linhas
+102;Apoio a ROV
+103;Lançador de Linhas
+104;Estimulador de Poço
+105;Jet Boat
+106;Transporte de Gases Liquefeitos
+107;Apoio à Manobra
+108;Moto-Aquática/similar
+109;Anfíbia
+110;Químico e Gaseiro
+111;Petroleiro e Químico

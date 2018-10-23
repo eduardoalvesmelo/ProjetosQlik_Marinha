@@ -1,0 +1,541 @@
+DN;ANO;COMPRIMENTO;QTDE.
+1º;2012;8 a 10 metros;217
+2º;2012;8 a 10 metros;159
+3º;2012;8 a 10 metros;78
+4º;2012;8 a 10 metros;68
+5º;2012;8 a 10 metros;190
+6º;2012;8 a 10 metros;19
+7º;2012;8 a 10 metros;87
+8º;2012;8 a 10 metros;419
+9º;2012;8 a 10 metros;108
+1º;2013;8 a 10 metros;203
+2º;2013;8 a 10 metros;133
+3º;2013;8 a 10 metros;82
+4º;2013;8 a 10 metros;68
+5º;2013;8 a 10 metros;159
+6º;2013;8 a 10 metros;12
+7º;2013;8 a 10 metros;67
+8º;2013;8 a 10 metros;382
+9º;2013;8 a 10 metros;127
+1º;2014;8 a 10 metros;165
+2º;2014;8 a 10 metros;126
+3º;2014;8 a 10 metros;73
+4º;2014;8 a 10 metros;41
+5º;2014;8 a 10 metros;166
+6º;2014;8 a 10 metros;24
+7º;2014;8 a 10 metros;35
+8º;2014;8 a 10 metros;306
+9º;2014;8 a 10 metros;186
+1º;2015;8 a 10 metros;153
+2º;2015;8 a 10 metros;100
+3º;2015;8 a 10 metros;82
+4º;2015;8 a 10 metros;54
+5º;2015;8 a 10 metros;131
+6º;2015;8 a 10 metros;43
+7º;2015;8 a 10 metros;64
+8º;2015;8 a 10 metros;197
+9º;2015;8 a 10 metros;170
+1º;2016;8 a 10 metros;105
+2º;2016;8 a 10 metros;64
+3º;2016;8 a 10 metros;25
+4º;2016;8 a 10 metros;49
+5º;2016;8 a 10 metros;117
+6º;2016;8 a 10 metros;20
+7º;2016;8 a 10 metros;39
+8º;2016;8 a 10 metros;193
+9º;2016;8 a 10 metros;293
+1º;2017;8 a 10 metros;59
+2º;2017;8 a 10 metros;32
+3º;2017;8 a 10 metros;16
+4º;2017;8 a 10 metros;21
+5º;2017;8 a 10 metros;53
+6º;2017;8 a 10 metros;6
+7º;2017;8 a 10 metros;14
+8º;2017;8 a 10 metros;110
+9º;2017;8 a 10 metros;62
+1º;2012;10 a 12 metros;105
+2º;2012;10 a 12 metros;31
+3º;2012;10 a 12 metros;62
+4º;2012;10 a 12 metros;19
+5º;2012;10 a 12 metros;67
+6º;2012;10 a 12 metros;7
+7º;2012;10 a 12 metros;27
+8º;2012;10 a 12 metros;137
+9º;2012;10 a 12 metros;18
+1º;2013;10 a 12 metros;87
+2º;2013;10 a 12 metros;47
+3º;2013;10 a 12 metros;63
+4º;2013;10 a 12 metros;11
+5º;2013;10 a 12 metros;87
+6º;2013;10 a 12 metros;4
+7º;2013;10 a 12 metros;25
+8º;2013;10 a 12 metros;172
+9º;2013;10 a 12 metros;38
+1º;2014;10 a 12 metros;72
+2º;2014;10 a 12 metros;31
+3º;2014;10 a 12 metros;46
+4º;2014;10 a 12 metros;20
+5º;2014;10 a 12 metros;83
+6º;2014;10 a 12 metros;9
+7º;2014;10 a 12 metros;19
+8º;2014;10 a 12 metros;167
+9º;2014;10 a 12 metros;42
+1º;2015;10 a 12 metros;68
+2º;2015;10 a 12 metros;40
+3º;2015;10 a 12 metros;27
+4º;2015;10 a 12 metros;18
+5º;2015;10 a 12 metros;74
+6º;2015;10 a 12 metros;15
+7º;2015;10 a 12 metros;22
+8º;2015;10 a 12 metros;115
+9º;2015;10 a 12 metros;65
+1º;2016;10 a 12 metros;52
+2º;2016;10 a 12 metros;20
+3º;2016;10 a 12 metros;11
+4º;2016;10 a 12 metros;24
+5º;2016;10 a 12 metros;70
+6º;2016;10 a 12 metros;7
+7º;2016;10 a 12 metros;25
+8º;2016;10 a 12 metros;92
+9º;2016;10 a 12 metros;67
+1º;2017;10 a 12 metros;35
+2º;2017;10 a 12 metros;13
+3º;2017;10 a 12 metros;3
+4º;2017;10 a 12 metros;6
+5º;2017;10 a 12 metros;29
+6º;2017;10 a 12 metros;2
+7º;2017;10 a 12 metros;9
+8º;2017;10 a 12 metros;53
+9º;2017;10 a 12 metros;13
+1º;2012;12 a 14 metros;37
+2º;2012;12 a 14 metros;16
+3º;2012;12 a 14 metros;18
+4º;2012;12 a 14 metros;10
+5º;2012;12 a 14 metros;35
+6º;2012;12 a 14 metros;3
+7º;2012;12 a 14 metros;7
+8º;2012;12 a 14 metros;73
+9º;2012;12 a 14 metros;11
+1º;2013;12 a 14 metros;43
+2º;2013;12 a 14 metros;12
+3º;2013;12 a 14 metros;15
+4º;2013;12 a 14 metros;6
+5º;2013;12 a 14 metros;26
+6º;2013;12 a 14 metros;0
+7º;2013;12 a 14 metros;5
+8º;2013;12 a 14 metros;60
+9º;2013;12 a 14 metros;9
+1º;2014;12 a 14 metros;31
+2º;2014;12 a 14 metros;9
+3º;2014;12 a 14 metros;15
+4º;2014;12 a 14 metros;10
+5º;2014;12 a 14 metros;35
+6º;2014;12 a 14 metros;1
+7º;2014;12 a 14 metros;1
+8º;2014;12 a 14 metros;77
+9º;2014;12 a 14 metros;6
+1º;2015;12 a 14 metros;30
+2º;2015;12 a 14 metros;17
+3º;2015;12 a 14 metros;16
+4º;2015;12 a 14 metros;6
+5º;2015;12 a 14 metros;27
+6º;2015;12 a 14 metros;7
+7º;2015;12 a 14 metros;3
+8º;2015;12 a 14 metros;49
+9º;2015;12 a 14 metros;14
+1º;2016;12 a 14 metros;25
+2º;2016;12 a 14 metros;6
+3º;2016;12 a 14 metros;14
+4º;2016;12 a 14 metros;10
+5º;2016;12 a 14 metros;19
+6º;2016;12 a 14 metros;3
+7º;2016;12 a 14 metros;6
+8º;2016;12 a 14 metros;48
+9º;2016;12 a 14 metros;19
+1º;2017;12 a 14 metros;13
+2º;2017;12 a 14 metros;3
+3º;2017;12 a 14 metros;7
+4º;2017;12 a 14 metros;1
+5º;2017;12 a 14 metros;13
+6º;2017;12 a 14 metros;1
+7º;2017;12 a 14 metros;4
+8º;2017;12 a 14 metros;22
+9º;2017;12 a 14 metros;5
+1º;2012;14 a 16 metros;18
+2º;2012;14 a 16 metros;4
+3º;2012;14 a 16 metros;8
+4º;2012;14 a 16 metros;2
+5º;2012;14 a 16 metros;18
+6º;2012;14 a 16 metros;0
+7º;2012;14 a 16 metros;1
+8º;2012;14 a 16 metros;34
+9º;2012;14 a 16 metros;11
+1º;2013;14 a 16 metros;27
+2º;2013;14 a 16 metros;6
+3º;2013;14 a 16 metros;7
+4º;2013;14 a 16 metros;3
+5º;2013;14 a 16 metros;18
+6º;2013;14 a 16 metros;0
+7º;2013;14 a 16 metros;4
+8º;2013;14 a 16 metros;32
+9º;2013;14 a 16 metros;11
+1º;2014;14 a 16 metros;14
+2º;2014;14 a 16 metros;0
+3º;2014;14 a 16 metros;2
+4º;2014;14 a 16 metros;2
+5º;2014;14 a 16 metros;21
+6º;2014;14 a 16 metros;1
+7º;2014;14 a 16 metros;2
+8º;2014;14 a 16 metros;15
+9º;2014;14 a 16 metros;4
+1º;2015;14 a 16 metros;16
+2º;2015;14 a 16 metros;8
+3º;2015;14 a 16 metros;5
+4º;2015;14 a 16 metros;5
+5º;2015;14 a 16 metros;20
+6º;2015;14 a 16 metros;0
+7º;2015;14 a 16 metros;3
+8º;2015;14 a 16 metros;13
+9º;2015;14 a 16 metros;9
+1º;2016;14 a 16 metros;19
+2º;2016;14 a 16 metros;0
+3º;2016;14 a 16 metros;4
+4º;2016;14 a 16 metros;7
+5º;2016;14 a 16 metros;15
+6º;2016;14 a 16 metros;1
+7º;2016;14 a 16 metros;1
+8º;2016;14 a 16 metros;18
+9º;2016;14 a 16 metros;12
+1º;2017;14 a 16 metros;4
+2º;2017;14 a 16 metros;5
+3º;2017;14 a 16 metros;1
+4º;2017;14 a 16 metros;2
+5º;2017;14 a 16 metros;8
+6º;2017;14 a 16 metros;0
+7º;2017;14 a 16 metros;3
+8º;2017;14 a 16 metros;11
+9º;2017;14 a 16 metros;5
+1º;2012;16 a 18 metros;15
+2º;2012;16 a 18 metros;2
+3º;2012;16 a 18 metros;7
+4º;2012;16 a 18 metros;2
+5º;2012;16 a 18 metros;2
+6º;2012;16 a 18 metros;0
+7º;2012;16 a 18 metros;2
+8º;2012;16 a 18 metros;31
+9º;2012;16 a 18 metros;10
+1º;2013;16 a 18 metros;8
+2º;2013;16 a 18 metros;4
+3º;2013;16 a 18 metros;3
+4º;2013;16 a 18 metros;1
+5º;2013;16 a 18 metros;0
+6º;2013;16 a 18 metros;1
+7º;2013;16 a 18 metros;3
+8º;2013;16 a 18 metros;22
+9º;2013;16 a 18 metros;11
+1º;2014;16 a 18 metros;17
+2º;2014;16 a 18 metros;4
+3º;2014;16 a 18 metros;3
+4º;2014;16 a 18 metros;3
+5º;2014;16 a 18 metros;5
+6º;2014;16 a 18 metros;0
+7º;2014;16 a 18 metros;2
+8º;2014;16 a 18 metros;11
+9º;2014;16 a 18 metros;5
+1º;2015;16 a 18 metros;11
+2º;2015;16 a 18 metros;1
+3º;2015;16 a 18 metros;2
+4º;2015;16 a 18 metros;1
+5º;2015;16 a 18 metros;4
+6º;2015;16 a 18 metros;0
+7º;2015;16 a 18 metros;4
+8º;2015;16 a 18 metros;3
+9º;2015;16 a 18 metros;2
+1º;2016;16 a 18 metros;6
+2º;2016;16 a 18 metros;1
+3º;2016;16 a 18 metros;2
+4º;2016;16 a 18 metros;1
+5º;2016;16 a 18 metros;3
+6º;2016;16 a 18 metros;0
+7º;2016;16 a 18 metros;1
+8º;2016;16 a 18 metros;4
+9º;2016;16 a 18 metros;13
+1º;2017;16 a 18 metros;1
+2º;2017;16 a 18 metros;2
+3º;2017;16 a 18 metros;1
+4º;2017;16 a 18 metros;1
+5º;2017;16 a 18 metros;7
+6º;2017;16 a 18 metros;0
+7º;2017;16 a 18 metros;1
+8º;2017;16 a 18 metros;5
+9º;2017;16 a 18 metros;2
+1º;2012;18 a 20 metros;12
+2º;2012;18 a 20 metros;0
+3º;2012;18 a 20 metros;5
+4º;2012;18 a 20 metros;0
+5º;2012;18 a 20 metros;13
+6º;2012;18 a 20 metros;0
+7º;2012;18 a 20 metros;0
+8º;2012;18 a 20 metros;20
+9º;2012;18 a 20 metros;10
+1º;2013;18 a 20 metros;11
+2º;2013;18 a 20 metros;4
+3º;2013;18 a 20 metros;2
+4º;2013;18 a 20 metros;3
+5º;2013;18 a 20 metros;15
+6º;2013;18 a 20 metros;1
+7º;2013;18 a 20 metros;0
+8º;2013;18 a 20 metros;23
+9º;2013;18 a 20 metros;6
+1º;2014;18 a 20 metros;11
+2º;2014;18 a 20 metros;3
+3º;2014;18 a 20 metros;1
+4º;2014;18 a 20 metros;1
+5º;2014;18 a 20 metros;10
+6º;2014;18 a 20 metros;1
+7º;2014;18 a 20 metros;2
+8º;2014;18 a 20 metros;13
+9º;2014;18 a 20 metros;4
+1º;2015;18 a 20 metros;8
+2º;2015;18 a 20 metros;2
+3º;2015;18 a 20 metros;0
+4º;2015;18 a 20 metros;3
+5º;2015;18 a 20 metros;14
+6º;2015;18 a 20 metros;0
+7º;2015;18 a 20 metros;0
+8º;2015;18 a 20 metros;13
+9º;2015;18 a 20 metros;3
+1º;2016;18 a 20 metros;8
+2º;2016;18 a 20 metros;1
+3º;2016;18 a 20 metros;0
+4º;2016;18 a 20 metros;4
+5º;2016;18 a 20 metros;11
+6º;2016;18 a 20 metros;0
+7º;2016;18 a 20 metros;1
+8º;2016;18 a 20 metros;9
+9º;2016;18 a 20 metros;10
+1º;2017;18 a 20 metros;3
+2º;2017;18 a 20 metros;0
+3º;2017;18 a 20 metros;1
+4º;2017;18 a 20 metros;2
+5º;2017;18 a 20 metros;2
+6º;2017;18 a 20 metros;0
+7º;2017;18 a 20 metros;0
+8º;2017;18 a 20 metros;9
+9º;2017;18 a 20 metros;4
+1º;2012;20 a 22 metros;4
+2º;2012;20 a 22 metros;2
+3º;2012;20 a 22 metros;1
+4º;2012;20 a 22 metros;0
+5º;2012;20 a 22 metros;2
+6º;2012;20 a 22 metros;2
+7º;2012;20 a 22 metros;1
+8º;2012;20 a 22 metros;8
+9º;2012;20 a 22 metros;3
+1º;2013;20 a 22 metros;0
+2º;2013;20 a 22 metros;1
+3º;2013;20 a 22 metros;1
+4º;2013;20 a 22 metros;1
+5º;2013;20 a 22 metros;2
+6º;2013;20 a 22 metros;0
+7º;2013;20 a 22 metros;0
+8º;2013;20 a 22 metros;6
+9º;2013;20 a 22 metros;6
+1º;2014;20 a 22 metros;4
+2º;2014;20 a 22 metros;0
+3º;2014;20 a 22 metros;0
+4º;2014;20 a 22 metros;0
+5º;2014;20 a 22 metros;3
+6º;2014;20 a 22 metros;0
+7º;2014;20 a 22 metros;0
+8º;2014;20 a 22 metros;3
+9º;2014;20 a 22 metros;3
+1º;2015;20 a 22 metros;6
+2º;2015;20 a 22 metros;2
+3º;2015;20 a 22 metros;0
+4º;2015;20 a 22 metros;2
+5º;2015;20 a 22 metros;1
+6º;2015;20 a 22 metros;1
+7º;2015;20 a 22 metros;0
+8º;2015;20 a 22 metros;4
+9º;2015;20 a 22 metros;4
+1º;2016;20 a 22 metros;3
+2º;2016;20 a 22 metros;0
+3º;2016;20 a 22 metros;0
+4º;2016;20 a 22 metros;2
+5º;2016;20 a 22 metros;2
+6º;2016;20 a 22 metros;1
+7º;2016;20 a 22 metros;0
+8º;2016;20 a 22 metros;1
+9º;2016;20 a 22 metros;9
+1º;2017;20 a 22 metros;1
+2º;2017;20 a 22 metros;0
+3º;2017;20 a 22 metros;0
+4º;2017;20 a 22 metros;2
+5º;2017;20 a 22 metros;1
+6º;2017;20 a 22 metros;0
+7º;2017;20 a 22 metros;0
+8º;2017;20 a 22 metros;1
+9º;2017;20 a 22 metros;5
+1º;2012;22 a 24 metros;7
+2º;2012;22 a 24 metros;1
+3º;2012;22 a 24 metros;0
+4º;2012;22 a 24 metros;2
+5º;2012;22 a 24 metros;0
+6º;2012;22 a 24 metros;0
+7º;2012;22 a 24 metros;1
+8º;2012;22 a 24 metros;10
+9º;2012;22 a 24 metros;2
+1º;2013;22 a 24 metros;7
+2º;2013;22 a 24 metros;2
+3º;2013;22 a 24 metros;0
+4º;2013;22 a 24 metros;0
+5º;2013;22 a 24 metros;0
+6º;2013;22 a 24 metros;0
+7º;2013;22 a 24 metros;0
+8º;2013;22 a 24 metros;9
+9º;2013;22 a 24 metros;1
+1º;2014;22 a 24 metros;8
+2º;2014;22 a 24 metros;5
+3º;2014;22 a 24 metros;0
+4º;2014;22 a 24 metros;0
+5º;2014;22 a 24 metros;2
+6º;2014;22 a 24 metros;0
+7º;2014;22 a 24 metros;0
+8º;2014;22 a 24 metros;9
+9º;2014;22 a 24 metros;2
+1º;2015;22 a 24 metros;5
+2º;2015;22 a 24 metros;1
+3º;2015;22 a 24 metros;0
+4º;2015;22 a 24 metros;1
+5º;2015;22 a 24 metros;3
+6º;2015;22 a 24 metros;0
+7º;2015;22 a 24 metros;0
+8º;2015;22 a 24 metros;1
+9º;2015;22 a 24 metros;5
+1º;2016;22 a 24 metros;2
+2º;2016;22 a 24 metros;1
+3º;2016;22 a 24 metros;0
+4º;2016;22 a 24 metros;1
+5º;2016;22 a 24 metros;2
+6º;2016;22 a 24 metros;0
+7º;2016;22 a 24 metros;0
+8º;2016;22 a 24 metros;2
+9º;2016;22 a 24 metros;6
+1º;2017;22 a 24 metros;0
+2º;2017;22 a 24 metros;0
+3º;2017;22 a 24 metros;0
+4º;2017;22 a 24 metros;0
+5º;2017;22 a 24 metros;0
+6º;2017;22 a 24 metros;0
+7º;2017;22 a 24 metros;0
+8º;2017;22 a 24 metros;7
+9º;2017;22 a 24 metros;1
+1º;2012;24 a 26 metros;0
+2º;2012;24 a 26 metros;0
+3º;2012;24 a 26 metros;0
+4º;2012;24 a 26 metros;0
+5º;2012;24 a 26 metros;1
+6º;2012;24 a 26 metros;0
+7º;2012;24 a 26 metros;0
+8º;2012;24 a 26 metros;0
+9º;2012;24 a 26 metros;2
+1º;2013;24 a 26 metros;0
+2º;2013;24 a 26 metros;0
+3º;2013;24 a 26 metros;0
+4º;2013;24 a 26 metros;0
+5º;2013;24 a 26 metros;1
+6º;2013;24 a 26 metros;0
+7º;2013;24 a 26 metros;0
+8º;2013;24 a 26 metros;0
+9º;2013;24 a 26 metros;0
+1º;2014;24 a 26 metros;0
+2º;2014;24 a 26 metros;0
+3º;2014;24 a 26 metros;0
+4º;2014;24 a 26 metros;0
+5º;2014;24 a 26 metros;1
+6º;2014;24 a 26 metros;0
+7º;2014;24 a 26 metros;0
+8º;2014;24 a 26 metros;2
+9º;2014;24 a 26 metros;1
+1º;2015;24 a 26 metros;2
+2º;2015;24 a 26 metros;0
+3º;2015;24 a 26 metros;0
+4º;2015;24 a 26 metros;1
+5º;2015;24 a 26 metros;0
+6º;2015;24 a 26 metros;0
+7º;2015;24 a 26 metros;0
+8º;2015;24 a 26 metros;0
+9º;2015;24 a 26 metros;1
+1º;2016;24 a 26 metros;1
+2º;2016;24 a 26 metros;0
+3º;2016;24 a 26 metros;0
+4º;2016;24 a 26 metros;0
+5º;2016;24 a 26 metros;0
+6º;2016;24 a 26 metros;0
+7º;2016;24 a 26 metros;0
+8º;2016;24 a 26 metros;1
+9º;2016;24 a 26 metros;0
+1º;2017;24 a 26 metros;0
+2º;2017;24 a 26 metros;0
+3º;2017;24 a 26 metros;0
+4º;2017;24 a 26 metros;0
+5º;2017;24 a 26 metros;0
+6º;2017;24 a 26 metros;0
+7º;2017;24 a 26 metros;0
+8º;2017;24 a 26 metros;1
+9º;2017;24 a 26 metros;1
+1º;2012;Acima 26 metros;2
+2º;2012;Acima 26 metros;1
+3º;2012;Acima 26 metros;0
+4º;2012;Acima 26 metros;0
+5º;2012;Acima 26 metros;1
+6º;2012;Acima 26 metros;0
+7º;2012;Acima 26 metros;0
+8º;2012;Acima 26 metros;2
+9º;2012;Acima 26 metros;10
+1º;2013;Acima 26 metros;1
+2º;2013;Acima 26 metros;0
+3º;2013;Acima 26 metros;0
+4º;2013;Acima 26 metros;0
+5º;2013;Acima 26 metros;2
+6º;2013;Acima 26 metros;0
+7º;2013;Acima 26 metros;0
+8º;2013;Acima 26 metros;4
+9º;2013;Acima 26 metros;9
+1º;2014;Acima 26 metros;0
+2º;2014;Acima 26 metros;0
+3º;2014;Acima 26 metros;0
+4º;2014;Acima 26 metros;0
+5º;2014;Acima 26 metros;1
+6º;2014;Acima 26 metros;0
+7º;2014;Acima 26 metros;0
+8º;2014;Acima 26 metros;4
+9º;2014;Acima 26 metros;2
+1º;2015;Acima 26 metros;0
+2º;2015;Acima 26 metros;0
+3º;2015;Acima 26 metros;0
+4º;2015;Acima 26 metros;0
+5º;2015;Acima 26 metros;0
+6º;2015;Acima 26 metros;0
+7º;2015;Acima 26 metros;0
+8º;2015;Acima 26 metros;2
+9º;2015;Acima 26 metros;4
+1º;2016;Acima 26 metros;5
+2º;2016;Acima 26 metros;0
+3º;2016;Acima 26 metros;0
+4º;2016;Acima 26 metros;0
+5º;2016;Acima 26 metros;0
+6º;2016;Acima 26 metros;0
+7º;2016;Acima 26 metros;0
+8º;2016;Acima 26 metros;2
+9º;2016;Acima 26 metros;2
+1º;2017;Acima 26 metros;0
+2º;2017;Acima 26 metros;0
+3º;2017;Acima 26 metros;0
+4º;2017;Acima 26 metros;0
+5º;2017;Acima 26 metros;0
+6º;2017;Acima 26 metros;0
+7º;2017;Acima 26 metros;0
+8º;2017;Acima 26 metros;3
+9º;2017;Acima 26 metros;4
